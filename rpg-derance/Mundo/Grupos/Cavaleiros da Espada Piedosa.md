@@ -1,0 +1,1 @@
+Ordem de clérigos e paladinos de [[Tyr]]

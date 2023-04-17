@@ -1,0 +1,4 @@
+- 2 andares
+	- [[Bun Ging A'hnga]] mora no andar de cima
+	- Oficina no andar de baixo
+- Norte de [[Esmeltaran]]

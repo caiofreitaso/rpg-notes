@@ -1,0 +1,6 @@
+Cinco famílias mais poderosas de [[Amn]]
+- [[Os Alibakkar]]
+- [[Os Dannihyr]]
+- [[Os Nashivaar]]
+- [[Os Ophal]]
+- [[Os Selemchant]]

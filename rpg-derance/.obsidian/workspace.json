@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "5fb0024140c093bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa6b5040afe79668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7767f11f3abc864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mundo/Pessoas/Irenka Todorova.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdec370827efbb05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mundo/Pessoas/Sheik Alfaruk Atallah.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4cec87a46838de7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d5231706c59858c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Festa de Dominica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4eace7c97d034a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c56fc21438936bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3249b2b9376d524",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9896ee832ad748fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "021bf3be616bcea0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ebddfe7c42dff3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf5f01fd44acc906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4c9074ed49baddc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Festa de Dominica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f2a86aacb9c92c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Festa de Dominica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad58e38ee06664b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ea9b508a4bf1a11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Festa de Dominica.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3d5231706c59858c",
+  "lastOpenFiles": [
+    "Mundo/Pessoas/Alexander Bronislav.md",
+    "Festa de Dominica.md",
+    "Mundo/Grupos/Os Alibakkar.md",
+    "Mundo/Grupos/Os Kalashinik.md",
+    "Mundo/Grupos/Magos Encapuzados.md",
+    "Mundo/Locais/Amn.md",
+    "Mundo/Pessoas/Sveda.md",
+    "Mundo/Pessoas/Amari Alibakkar.md",
+    "Mundo/Locais/Esmeltaran.md",
+    "Mundo/Pessoas/Lord Karana.md",
+    "Mundo/Pessoas/Sheik Alfaruk Atallah.md",
+    "Mundo/Pessoas/Lord Askia Indull Sarvan.md",
+    "Mundo/Locais/Areias Douradas.md",
+    "Mundo/Pessoas/Lady Faronisa.md",
+    "Mundo/Grupos/Os Heróis.md",
+    "Personagens Jogadores/Caleb.md",
+    "Lord ??? Alibacar.md",
+    "Mundo/Locais/Casa de Wilimack.md",
+    "Mundo/Objetos/Pergaminhos Nether.md",
+    "Mundo/Objetos",
+    "Mundo/Pessoas/Anastasia Bronislav.md",
+    "Mundo/Pessoas/Irenka Todorova.md",
+    "Mundo/Locais/Templo de Kelemvor de Esmeltaran.md",
+    "Mundo/Locais/Descanso da Beleza.md",
+    "Mundo/Locais/Templo de Selûne de Esmeltaran.md",
+    "Mundo/Locais/Templo de Oghma de Esmeltaran.md",
+    "Mundo/Pessoas/Lord Noulos.md",
+    "Mundo/Deuses",
+    "Personagens Jogadores",
+    "Mundo/Pessoas",
+    "Mundo/Grupos",
+    "Mundo/Locais",
+    "Mundo"
+  ]
+}
