@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "c56e2e964ddbe756",
+    "type": "split",
+    "children": [
+      {
+        "id": "f840c57388749417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07c2dd5b7c8afa41",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "b6d5f8181bddc90e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b607ed81102f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organizations/merchant-houses/small/House Ardian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa27736eae47bd61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organizations/merchant-houses/small/House Ianto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e483de5e1416f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2878983bfffbc58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7b68f37dbff0710",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "717e07b387212533",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wallis",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "974ccff28a9e5e2b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6d012d40a3a747c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a757aa61af77e9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "791096e3580f7168",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b132768e3157bce5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99777abd11778408",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78cace5c8223d754",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "07c2dd5b7c8afa41",
+  "lastOpenFiles": [
+    "organizations/merchant-houses/small/House Ianto.md",
+    "organizations/merchant-houses/small/House Fyra.md",
+    "organizations/merchant-houses/small/House Ardian.md",
+    "organizations/merchant-houses/small/Dendys Consortium.md",
+    "organizations/merchant-houses/dynastic/House Shom.md",
+    "organizations/merchant-houses/dynastic/House Inika.md",
+    "locations/regions/Tablelands.md",
+    "organizations/elven-tribes/clans/Quarter Moons.md",
+    "locations/villages/Salt View.md",
+    "organizations/elven-tribes/clans/Dark Moons.md",
+    "organizations/elven-tribes/clans/Twilightcatchers.md",
+    "organizations/elven-tribes/clans",
+    "organizations/elven-tribes/Untitled.md",
+    "organizations/elven-tribes/Wind Dancers.md",
+    "organizations/merchant-houses/dynastic",
+    "organizations/merchant-houses/small",
+    "organizations/merchant-houses/dynastic/House Stel.md",
+    "organizations/elven-tribes/Water Hunters.md",
+    "locations/forts/Fort Adros.md",
+    "locations/forts/Fort Thetis.md",
+    "locations/regions/Ringing Mountains.md",
+    "organizations/elven-tribes/clans/Fire Dagger.md",
+    "organizations/merchant-houses/dynastic/House Vordon.md",
+    "organizations/elven-tribes/Night Runners.md",
+    "organizations/elven-tribes/Sky Singers.md",
+    "organizations/elven-tribes/clans/New Moons.md",
+    "organizations/elven-tribes/clans/Half Moons.md",
+    "organizations/elven-tribes/clans/Full Moons.md",
+    "locations/cities/Raam.md",
+    "organizations/merchant-houses",
+    "organizations/elven-tribes",
+    "locations/villages",
+    "locations/forts",
+    "organizations",
+    "locations/regions",
+    "locations/cities"
+  ]
+}
