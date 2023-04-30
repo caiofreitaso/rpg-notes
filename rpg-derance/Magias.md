@@ -1,3 +1,5 @@
+Magias de [[Bun Ging A'hnga]]
+
 ## Cantrips: 3
 - light
 - mage hand

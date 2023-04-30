@@ -4,55 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "fa6b5040afe79668",
+        "id": "a4c8381eb0cd8838",
         "type": "tabs",
         "children": [
           {
-            "id": "a7767f11f3abc864",
+            "id": "48a663f8982a42a5",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mundo/Pessoas/Irenka Todorova.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdec370827efbb05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mundo/Pessoas/Sheik Alfaruk Atallah.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4cec87a46838de7",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
-            "id": "3d5231706c59858c",
+            "id": "19e7857317eb001f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Festa de Dominica.md",
+                "file": "mundo/pessoas/Sveda.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Festa de Dominica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Festa de Dominica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Festa de Dominica.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,40 +152,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d5231706c59858c",
+  "active": "48a663f8982a42a5",
   "lastOpenFiles": [
-    "Mundo/Pessoas/Alexander Bronislav.md",
-    "Festa de Dominica.md",
-    "Mundo/Grupos/Os Alibakkar.md",
-    "Mundo/Grupos/Os Kalashinik.md",
-    "Mundo/Grupos/Magos Encapuzados.md",
-    "Mundo/Locais/Amn.md",
-    "Mundo/Pessoas/Sveda.md",
-    "Mundo/Pessoas/Amari Alibakkar.md",
-    "Mundo/Locais/Esmeltaran.md",
-    "Mundo/Pessoas/Lord Karana.md",
-    "Mundo/Pessoas/Sheik Alfaruk Atallah.md",
-    "Mundo/Pessoas/Lord Askia Indull Sarvan.md",
-    "Mundo/Locais/Areias Douradas.md",
-    "Mundo/Pessoas/Lady Faronisa.md",
-    "Mundo/Grupos/Os Heróis.md",
-    "Personagens Jogadores/Caleb.md",
-    "Lord ??? Alibacar.md",
-    "Mundo/Locais/Casa de Wilimack.md",
-    "Mundo/Objetos/Pergaminhos Nether.md",
-    "Mundo/Objetos",
-    "Mundo/Pessoas/Anastasia Bronislav.md",
-    "Mundo/Pessoas/Irenka Todorova.md",
-    "Mundo/Locais/Templo de Kelemvor de Esmeltaran.md",
-    "Mundo/Locais/Descanso da Beleza.md",
-    "Mundo/Locais/Templo de Selûne de Esmeltaran.md",
-    "Mundo/Locais/Templo de Oghma de Esmeltaran.md",
-    "Mundo/Pessoas/Lord Noulos.md",
-    "Mundo/Deuses",
-    "Personagens Jogadores",
-    "Mundo/Pessoas",
-    "Mundo/Grupos",
-    "Mundo/Locais",
-    "Mundo"
+    "mundo/pessoas/Sveda.md",
+    "mundo/eventos/Festa de Dominica.md",
+    "personagens-jogadores/Erani Rockharvest.md",
+    "Magias.md",
+    "personagens-jogadores/Brynn Lumberman.md",
+    "personagens-jogadores/Bun Ging A'hnga.md",
+    "personagens-jogadores/Frederiks Melshimber.md",
+    "mundo/locais/Templo de Kelemvor de Esmeltaran.md",
+    "mundo/locais/Templo de Oghma de Esmeltaran.md",
+    "mundo/locais/Templo de Selûne de Esmeltaran.md",
+    "mundo/pessoas/Amari Alibakkar.md",
+    "mundo/locais/Lantan.md",
+    "mundo/locais/Ex-oficina de Nikola Kalashinik.md",
+    "mundo/locais/Esmeltaran.md",
+    "mundo/locais/Descanso da Beleza.md",
+    "mundo/locais/Casa de Wilimack.md",
+    "mundo/locais/Areias Douradas.md",
+    "mundo/locais/Amn.md",
+    "mundo/objetos/Pergaminhos Nether.md",
+    "mundo/grupos/Os Todorov.md",
+    "mundo/grupos/Os Nashivaar.md",
+    "mundo/grupos/Os Alibakkar.md",
+    "mundo/grupos/Magos Encapuzados.md",
+    "mundo/grupos/Cavaleiros da Espada Piedosa.md",
+    "mundo/grupos/Conselho dos Cinco.md",
+    "personagens-jogadores/Caleb.md",
+    "Untitled.canvas",
+    "mundo/eventos",
+    "mundo/objetos",
+    "mundo/deuses",
+    "personagens-jogadores",
+    "mundo/pessoas",
+    "mundo/grupos",
+    "mundo/locais",
+    "mundo"
   ]
 }
