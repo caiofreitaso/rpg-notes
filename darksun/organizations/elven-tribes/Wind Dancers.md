@@ -1,8 +1,9 @@
-#elven-tribe 
+#elven-tribe #raiders
 
-- Raiders (they were herders once)
+- They were herders once
+- Devoted to elemental air
 - Chief: [[Santhaal Wind Dancer]]
-- 400 members
+- 600 members
 
 ## Clans
 - [[Airhunters]]

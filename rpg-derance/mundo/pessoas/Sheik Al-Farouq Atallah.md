@@ -1,3 +1,3 @@
-Casado com [[Emira Kadija Atallah]]
+Casado com [[Emira Khadija Atallah]]
 
 - Irmão de [[Emira Shaya Atallah]]

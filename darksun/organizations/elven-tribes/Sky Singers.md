@@ -6,9 +6,9 @@
 - 3500 members
 
 ## Clans
-- [[Dayjumpers]]
-- [[Dawnchasers]]
-- [[Twilightcatchers]]
+- [[Dayjumpers]]: commerce and city laws
+- [[Dawnchasers]]: herders
+- [[Twilightcatchers]]: arcane arts
 
 ## Enemies
 - [[House Stel]]

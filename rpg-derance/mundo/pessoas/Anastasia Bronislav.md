@@ -1,2 +1,2 @@
 #vampiro
-Par de [[Alexander Bronislav]]
+Par de [[Aleksandr Bronislav]]

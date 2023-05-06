@@ -3,6 +3,7 @@
 Clan of the [[Sky Singers]] tribe.
 
 - 1000 members
-- Spell components
-- Magical items
-- Wizardly texts
+- Arcane arts
+	- Spell components
+	- Magical items
+	- Wizardly texts

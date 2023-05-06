@@ -4,14 +4,14 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:locations/regions",
+      "query": "tag:#region",
       "color": {
         "a": 1,
-        "rgb": 3966208
+        "rgb": 1741314
       }
     },
     {
@@ -55,9 +55,16 @@
         "a": 1,
         "rgb": 16753639
       }
+    },
+    {
+      "query": "tag:#geographic-feature",
+      "color": {
+        "a": 1,
+        "rgb": 5168984
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.0953125,
@@ -67,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.06433755869166087,
+  "scale": 0.08661600870453721,
   "close": true
 }

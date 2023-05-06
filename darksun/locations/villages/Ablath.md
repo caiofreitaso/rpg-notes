@@ -1,4 +1,4 @@
-#village 
+#village
 
 500 citizens
 

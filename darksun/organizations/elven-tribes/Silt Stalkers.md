@@ -1,13 +1,14 @@
-#elven-tribe 
+#elven-tribe #raiders 
 
-- Raiders
-- Chief: [[Eevuu Silt Stalker]]
 - Operate east of [[Gulg]] and [[City of Nibenay|Nibenay]]
+- Devoted to elemental fire
+- Chief: [[Eevuu Silt Stalker]]
+- 850 members
 
 ## Clans
-- [[Fire Bow]]
-- [[Fire Dagger]]
-- [[Fire Sword]]
+- [[Fire Bow]]: scouts
+- [[Fire Dagger]]: defilers and thieves
+- [[Fire Sword]]: warriors
 
 ## Enemies
 - [[Cromlin]]

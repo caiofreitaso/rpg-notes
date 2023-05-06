@@ -2,8 +2,10 @@
 
 - Assassins
 - Tribe is conducted as a business
-- Chief: [[Hukaa New Moons]]
 - Operates all over the [[Tablelands]]
+- Devoted to elemental earth
+- Chief: [[Hukaa New Moons]]
+- 1800 members
 
 ## Clans
 - [[Lone Moon]]: traders and thieves

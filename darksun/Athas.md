@@ -7,7 +7,7 @@ The planet in the Dark Sun setting.
 - [[Forest Ridge]]
 - [[Ringing Mountains]]
 - [[Tablelands]]
-- [[Silt Sea]]
+- [[Sea of Silt]]
 
 ## Moons
 - [[Ral]]

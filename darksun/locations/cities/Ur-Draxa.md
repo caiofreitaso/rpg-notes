@@ -2,11 +2,9 @@
 
 | City-State | Ur-Draxa |
 |:-|:-|
-| **Population** | ,000 |
-| **Exports** | |
-| **Languages** | Common, Ur-Draxa, Dwarven, Elven |
+| **Population** | 35,000 |
+| **Languages** | Low Draxan, High Draxan, Dwarven |
 | **Sorcerer-Monarch** | [[The Dragon]] |
-| **Merchant House** | [[]] |
 
 ## Settlements
 - 

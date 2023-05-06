@@ -4,15 +4,16 @@
 - Embrace the old elven ways
 	- Eat raw meat from still-living creatures
 	- Reject settlements
+- Hunt between [[Tyr]] and [[Urik]]
 - Devoted to elemental water
 - Chief: [[Lismuuk Water Hunter]]
-- Hunt between [[Tyr]] and [[Urik]]
+- 700 members
 
 ## Clans
+They do not have specialised duties within the tribe. 
 - [[Raindancers]]
 - [[Poolrunners]]
 - [[Lakesingers]]
-They do not have specialised duties within the tribe. 
 
 ## Enemies
 - [[House Stel]]

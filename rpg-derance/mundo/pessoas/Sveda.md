@@ -15,7 +15,7 @@ Doi
 - [[Lady Ariele Molnir]]
 
 ## Investigação
-A investigação do seu assassinato foi liderado por [[Lady Frantisca]], com ajuda do [[Templo de Selûne de Esmeltaran]]. Ela contratou os serviços d'[[Os Heróis]].
+A investigação do seu assassinato foi liderado por [[Lady Frantiska]], com ajuda do [[Templo de Selûne de Esmeltaran]]. Ela contratou os serviços d'[[Os Heróis]].
 
 ## Ressurreição
 O corpo de Sveda foi levado ao [[Templo de Kelemvor de Esmeltaran]], sob custódia de [[Lord Viktor]]. Ele então tentou trazê-la de volta à vida, junto a [[Erani Rockharvest]], com sucesso.

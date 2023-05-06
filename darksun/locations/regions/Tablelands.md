@@ -1,4 +1,15 @@
-Located between the [[Ringing Mountains]] and the [[Silt Sea]]
+#region 
+
+Located between the [[Ringing Mountains]] and the [[Sea of Silt]]
+
+## Features
+- [[Great Alluvial Sand Wastes]]
+- [[Black Spine Mountains]]
+- [[Mekillot Mountains]]
+- [[Windbreak Mountains]]
+- [[Crescent Forest]]
+- [[Great Ivory Plain]]
+- [[Mountains of the Teeth]]
 
 ## City-States
 - [[Balic]]

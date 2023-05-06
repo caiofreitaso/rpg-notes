@@ -6,5 +6,6 @@
   "spellcheckLanguages": [
     "en-GB",
     "pt-BR"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

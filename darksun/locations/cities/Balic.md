@@ -8,7 +8,7 @@
 | **Sorcerer-Monarch** | [[Andropinis]] |
 | **Merchant House** | [[House Wavir]] |
 
-At the shores of the [[Silt Sea]]
+At the shores of the [[Sea of Silt]]
 
 ## Settlements
 - [[Altaruk]]

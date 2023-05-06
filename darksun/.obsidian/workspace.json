@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f840c57388749417",
+        "id": "5a160a61f6e22d6f",
         "type": "tabs",
         "children": [
           {
-            "id": "07c2dd5b7c8afa41",
+            "id": "4bd986be69380c93",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,31 +24,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07b607ed81102f28",
+            "id": "83b06ec6c4c0cd04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/merchant-houses/small/House Ardian.md",
+                "file": "locations/geographical-features/Silt Archipelago.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa27736eae47bd61",
+            "id": "84e4dde0b02f9e32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/merchant-houses/small/House Ianto.md",
+                "file": "locations/Tarelon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd2bc49cc0c189b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/geographical-features/Black Isle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7f6d1b7c016084a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/geographical-features/Black Isle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "566ecbb5eafac0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/cities/Ur-Draxa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -77,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wallis",
+                "query": "lost oasis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,43 +207,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07c2dd5b7c8afa41",
+  "active": "4bd986be69380c93",
   "lastOpenFiles": [
-    "organizations/merchant-houses/small/House Ianto.md",
-    "organizations/merchant-houses/small/House Fyra.md",
-    "organizations/merchant-houses/small/House Ardian.md",
-    "organizations/merchant-houses/small/Dendys Consortium.md",
+    "locations/cities/Ur-Draxa.md",
+    "locations/cities/City of Nibenay.md",
+    "locations/cities/Gulg.md",
+    "locations/cities/Tyr.md",
+    "locations/cities/Raam.md",
+    "locations/geographical-features/Shault.md",
+    "locations/geographical-features/Road of Fire.md",
+    "locations/geographical-features/Lost Oasis.md",
+    "locations/geographical-features/Isle of Ash.md",
+    "locations/geographical-features/Great Alluvial Sand Wastes.md",
+    "locations/geographical-features/Black Isle.md",
+    "locations/geographical-features/Crescent Forest.md",
+    "locations/geographical-features/Silt Archipelago.md",
+    "locations/geographical-features",
+    "locations/Tarelon.md",
+    "organizations/Silt Raiders.md",
+    "organizations/Black Sand Raiders.md",
+    "locations/regions/Sea of Silt.md",
+    "locations/geographical-features/Vanishing Lake.md",
+    "locations/Kalidnay.md",
+    "locations/geographical-features/Mountains of the Sun.md",
+    "organizations/merchant-houses/dynastic/House Wavir.md",
+    "organizations/merchant-houses/dynastic/House Vordon.md",
+    "organizations/merchant-houses/dynastic/House Tsalaxa.md",
+    "organizations/merchant-houses/dynastic/House Stel.md",
     "organizations/merchant-houses/dynastic/House Shom.md",
-    "organizations/merchant-houses/dynastic/House Inika.md",
-    "locations/regions/Tablelands.md",
-    "organizations/elven-tribes/clans/Quarter Moons.md",
-    "locations/villages/Salt View.md",
-    "organizations/elven-tribes/clans/Dark Moons.md",
-    "organizations/elven-tribes/clans/Twilightcatchers.md",
+    "organizations/merchant-houses/dynastic/House M'ke.md",
     "organizations/elven-tribes/clans",
-    "organizations/elven-tribes/Untitled.md",
-    "organizations/elven-tribes/Wind Dancers.md",
     "organizations/merchant-houses/dynastic",
     "organizations/merchant-houses/small",
-    "organizations/merchant-houses/dynastic/House Stel.md",
-    "organizations/elven-tribes/Water Hunters.md",
-    "locations/forts/Fort Adros.md",
-    "locations/forts/Fort Thetis.md",
-    "locations/regions/Ringing Mountains.md",
-    "organizations/elven-tribes/clans/Fire Dagger.md",
-    "organizations/merchant-houses/dynastic/House Vordon.md",
-    "organizations/elven-tribes/Night Runners.md",
-    "organizations/elven-tribes/Sky Singers.md",
-    "organizations/elven-tribes/clans/New Moons.md",
-    "organizations/elven-tribes/clans/Half Moons.md",
-    "organizations/elven-tribes/clans/Full Moons.md",
-    "locations/cities/Raam.md",
     "organizations/merchant-houses",
     "organizations/elven-tribes",
     "locations/villages",
     "locations/forts",
     "organizations",
-    "locations/regions",
-    "locations/cities"
+    "locations/regions"
   ]
 }
