@@ -2,6 +2,8 @@
 
 Born Borys of Ebe, the Dragon was once a Champion's captain, elevated by [[Rajaat]] after his master Egendo was captured and killed by dwarves.
 
+His most loyal subjects are the [[Kaisharga]], or the Dead Lords.
+
 ## Rebellion
 Borys discovered Rajaat's plans to betray humanity and reverse the Rebirth, so he gathered the other Champions to strike against their master. Two Champions still helped Rajaat escape while the others fought him: [[Sacha]] and [[Wyan]]. They attacked the Rebellion with the help of the silent halflings, but the two Champions were killed and the halflings thrown into the Black.
 

@@ -24,67 +24,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83b06ec6c4c0cd04",
+            "id": "41a590ad55b37a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/geographical-features/Silt Archipelago.md",
+                "file": "Xairas Sector.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "84e4dde0b02f9e32",
+            "id": "5391d179eb26f69c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/Tarelon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd2bc49cc0c189b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/geographical-features/Black Isle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7f6d1b7c016084a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/geographical-features/Black Isle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "566ecbb5eafac0e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/cities/Ur-Draxa.md",
+                "file": "Morzket Sector.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lost oasis",
+                "query": "tag:#ur-draxa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +93,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ef050349b45c3f0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,33 +182,33 @@
   },
   "active": "4bd986be69380c93",
   "lastOpenFiles": [
+    "Morzket Sector.md",
+    "Raxes Sector.md",
+    "Lake Blackwater.md",
+    "Dragon Warriors.md",
+    "Melido.md",
+    "Kera Raxes.md",
+    "Xairas Sector.md",
+    "Chuur Sector.md",
+    "Doom of the South.md",
+    "Hall of Administration.md",
+    "Chuur Red.md",
+    "Gulidnay Sector.md",
+    "Ulth Sector.md",
+    "Irmena Gulidnay.md",
+    "Jezelred.md",
+    "Mikas Carpenter.md",
+    "Faro the Potter.md",
+    "Zenar.md",
+    "Rampant Kirre.md",
+    "Fortress of the West.md",
+    "Guard of the West.md",
+    "Black Scorpions.md",
+    "Tokarman Ulth.md",
     "locations/cities/Ur-Draxa.md",
-    "locations/cities/City of Nibenay.md",
-    "locations/cities/Gulg.md",
-    "locations/cities/Tyr.md",
-    "locations/cities/Raam.md",
-    "locations/geographical-features/Shault.md",
-    "locations/geographical-features/Road of Fire.md",
-    "locations/geographical-features/Lost Oasis.md",
-    "locations/geographical-features/Isle of Ash.md",
-    "locations/geographical-features/Great Alluvial Sand Wastes.md",
-    "locations/geographical-features/Black Isle.md",
-    "locations/geographical-features/Crescent Forest.md",
-    "locations/geographical-features/Silt Archipelago.md",
-    "locations/geographical-features",
-    "locations/Tarelon.md",
-    "organizations/Silt Raiders.md",
-    "organizations/Black Sand Raiders.md",
-    "locations/regions/Sea of Silt.md",
-    "locations/geographical-features/Vanishing Lake.md",
-    "locations/Kalidnay.md",
-    "locations/geographical-features/Mountains of the Sun.md",
     "organizations/merchant-houses/dynastic/House Wavir.md",
-    "organizations/merchant-houses/dynastic/House Vordon.md",
-    "organizations/merchant-houses/dynastic/House Tsalaxa.md",
-    "organizations/merchant-houses/dynastic/House Stel.md",
-    "organizations/merchant-houses/dynastic/House Shom.md",
-    "organizations/merchant-houses/dynastic/House M'ke.md",
+    "locations/cities/Balic.md",
+    "locations/geographical-features",
     "organizations/elven-tribes/clans",
     "organizations/merchant-houses/dynastic",
     "organizations/merchant-houses/small",

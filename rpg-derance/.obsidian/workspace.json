@@ -16,14 +16,20 @@
               "state": {},
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1f0540d0770c50e7",
+        "type": "tabs",
+        "children": [
           {
             "id": "f44696683349fe7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mundo/pessoas/Lord Viktor.md",
+                "file": "mundo/eventos/Festa de Dominica.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,6 +78,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebf8ed5dc35edb58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -154,18 +168,22 @@
   },
   "active": "48a663f8982a42a5",
   "lastOpenFiles": [
-    "Untitled.md",
+    "mundo/eventos/Festa de Dominica.md",
+    "mundo/locais/Netheril.md",
+    "mundo/pessoas/Lady Irenka Todorova.md",
+    "Lady Natasha Todorova.md",
+    "mundo/pessoas/Lord De La Cruz.md",
+    "mundo/pessoas/Sheik Al-Farouq Atallah.md",
+    "mundo/deuses/Corellon.md",
+    "mundo/objetos/Pergaminhos Nether.md",
+    "mundo/deuses/Cyric.md",
     "mundo/pessoas/Lord Karana.md",
     "mundo/locais/Templo de Oghma de Esmeltaran.md",
     "mundo/pessoas/Lady Daphne.md",
-    "mundo/eventos/Festa de Dominica.md",
-    "mundo/pessoas/Lord De La Cruz.md",
     "mundo/pessoas/Lord Viktor.md",
     "mundo/pessoas/Lady Amari Alibakkar.md",
-    "mundo/pessoas/Lady Irenka Todorova.md",
     "mundo/pessoas/Aleksandr Bronislav.md",
     "mundo/pessoas/Lord Askia Indull Sarvann.md",
-    "mundo/pessoas/Sheik Al-Farouq Atallah.md",
     "personagens-jogadores/Federiks Melshimber.md",
     "personagens-jogadores/Calë Gwarth.md",
     "mundo/pessoas/Lady Frantiska.md",
@@ -176,10 +194,6 @@
     "personagens-jogadores/Brynn Lumberman.md",
     "personagens-jogadores/Bun Ging A'hnga.md",
     "mundo/locais/Templo de Kelemvor de Esmeltaran.md",
-    "mundo/locais/Templo de Selûne de Esmeltaran.md",
-    "mundo/locais/Lantan.md",
-    "mundo/locais/Ex-oficina de Nikola Kalashinik.md",
-    "mundo/locais/Esmeltaran.md",
     "Untitled.canvas",
     "mundo/eventos",
     "mundo/objetos",

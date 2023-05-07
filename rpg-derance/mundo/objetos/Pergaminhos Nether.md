@@ -1,4 +1,5 @@
 #artefato #item-mágico
+
 Também conhecidos como as Peles Douradas da Serpente do Mundo.
 
 São um artefato antiquissimo, um dos mais antigos artefatos que se tem notícia. Dos mais importantes para a base da teoria mágica do mundo. São a coleção do conhecimento mágico das raças criadoras do mundo de Toril.
