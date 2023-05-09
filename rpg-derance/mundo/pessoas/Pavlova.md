@@ -1,6 +1,6 @@
-#humano #clérigo 
+#humano #paladino  
 Humana
-Clériga de [[Sune]]
+Paladina de [[Sune]]
 
 - Drag queen
 - Faz shows no [[Descanso da Beleza]]

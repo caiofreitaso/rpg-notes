@@ -1,6 +1,6 @@
 #region 
 
-Located near the [[Tablelands]].
+Located near the [[Tablelands]], surrounding the [[Valley of Dust and Fire]].
 
 ## Features
 - [[Estuary of the Forked Tongue]]
@@ -14,9 +14,6 @@ Located near the [[Tablelands]].
 - [[Black Isle]]
 - [[Silt Archipelago]]
 - [[Vanishing Lake]]
-
-## City-States
-- [[Ur-Draxa]]
 
 ## Settlements
 - [[Tarelon]]

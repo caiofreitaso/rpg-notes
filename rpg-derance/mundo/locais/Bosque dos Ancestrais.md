@@ -1,0 +1,1 @@
+Onde o [[Mythal]] foi conjurado, onde fica seu centro.

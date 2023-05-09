@@ -62,6 +62,20 @@
         "a": 1,
         "rgb": 5168984
       }
+    },
+    {
+      "query": "tag:#townland-sector",
+      "color": {
+        "a": 1,
+        "rgb": 331402
+      }
+    },
+    {
+      "query": "tag:#forest-sector",
+      "color": {
+        "a": 1,
+        "rgb": 4751905
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.04843961649546891,
+  "scale": 0.04993528587680964,
   "close": true
 }

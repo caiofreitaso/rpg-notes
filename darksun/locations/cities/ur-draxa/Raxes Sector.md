@@ -1,9 +1,8 @@
-#ur-draxa 
+#ur-draxa #forest-sector 
 
 Fifth sector within the outer walls of [[Ur-Draxa]]
 
 - Nearly abandoned
-- Forest sector
 - Leader: [[Kera Raxes]]
 - Home of the [[Dragon Warriors]]
 

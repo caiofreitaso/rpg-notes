@@ -29,26 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xairas Sector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5391d179eb26f69c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morzket Sector.md",
+                "file": "Maestrom.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maestrom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maestrom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maestrom.md"
+              }
             }
           }
         ]
@@ -180,34 +170,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bd986be69380c93",
+  "active": "41a590ad55b37a25",
   "lastOpenFiles": [
-    "Morzket Sector.md",
-    "Raxes Sector.md",
-    "Lake Blackwater.md",
-    "Dragon Warriors.md",
-    "Melido.md",
-    "Kera Raxes.md",
-    "Xairas Sector.md",
-    "Chuur Sector.md",
-    "Doom of the South.md",
-    "Hall of Administration.md",
-    "Chuur Red.md",
-    "Gulidnay Sector.md",
-    "Ulth Sector.md",
-    "Irmena Gulidnay.md",
-    "Jezelred.md",
-    "Mikas Carpenter.md",
-    "Faro the Potter.md",
-    "Zenar.md",
-    "Rampant Kirre.md",
-    "Fortress of the West.md",
-    "Guard of the West.md",
-    "Black Scorpions.md",
-    "Tokarman Ulth.md",
+    "Ring of Fire.md",
+    "Maestrom.md",
+    "Sith Island.md",
+    "organizations/ur-draxa/Dragon Warriors.md",
+    "organizations/Fire Scorpions.md",
+    "Guerdra.md",
+    "organizations/Black Sand Raiders.md",
+    "organizations/Silt Raiders.md",
+    "locations/regions/Valley of Dust and Fire.md",
+    "organizations/ur-draxa/Kaisharga.md",
+    "Amandia.md",
+    "locations/cities/ur-draxa/Raxes Sector.md",
+    "Iron Citadel.md",
+    "locations/cities/ur-draxa/Fortress of the West.md",
+    "organizations/ur-draxa/Guard of the West.md",
+    "locations/regions/Tablelands.md",
+    "locations/forts/Fort Courage.md",
+    "Shard Flats.md",
+    "locations/geographical-features/Great Ash Storm.md",
+    "locations/cities/ur-draxa/The Dragon's Sanctum.md",
     "locations/cities/Ur-Draxa.md",
-    "organizations/merchant-houses/dynastic/House Wavir.md",
-    "locations/cities/Balic.md",
+    "locations/geographical-features/Dead Forest.md",
+    "Basalt Plain.md",
+    "Tortured Hills.md",
+    "Last Port.md",
+    "locations/regions/Sea of Silt.md",
+    "organizations/ur-draxa",
+    "locations/cities/ur-draxa",
     "locations/geographical-features",
     "organizations/elven-tribes/clans",
     "organizations/merchant-houses/dynastic",
@@ -215,8 +207,6 @@
     "organizations/merchant-houses",
     "organizations/elven-tribes",
     "locations/villages",
-    "locations/forts",
-    "organizations",
-    "locations/regions"
+    "locations/forts"
   ]
 }

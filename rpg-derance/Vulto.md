@@ -1,0 +1,7 @@
+- Descendentes do antigo reino [[Netheril]]
+- Através de rituais se fundiram às próprias sombras
+- Poderosos nas artes arcanas
+- Retornaram 100 anos atrás
+- Foram derrotados
+- Alguns deles permanecem em Faerûn
+- Sempre desejaram obter relíquias [[Netheril]]

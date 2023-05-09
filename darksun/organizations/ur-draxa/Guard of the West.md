@@ -1,4 +1,4 @@
-#ur-draxa 
+#ur-draxa #city-company 
 
 - Leader: [[Amandia Xaidras]]
 - Fort: [[Fortress of the West]]

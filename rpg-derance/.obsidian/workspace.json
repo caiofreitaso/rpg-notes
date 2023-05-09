@@ -29,13 +29,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "mundo/pessoas/Ele.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb9654df897ae99e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "mundo/eventos/Festa de Dominica.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mundo/eventos/Festa de Dominica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mundo/eventos/Festa de Dominica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mundo/eventos/Festa de Dominica.md"
+              }
             }
           }
         ]
@@ -166,34 +183,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48a663f8982a42a5",
+  "active": "bb9654df897ae99e",
   "lastOpenFiles": [
+    "mundo/pessoas/Lord Finn Estelmer.md",
+    "mundo/pessoas/Sveda.md",
+    "mundo/locais/Ruínas de Myth Lharast.md",
+    "mundo/locais/Basílica de Selûne.md",
+    "Mythal.md",
+    "Magias.md",
+    "mundo/pessoas/Ele.md",
+    "Maosoléu Argentum.md",
+    "mundo/locais/Torres Estrelas Espirais.md",
+    "mundo/locais/Bosque dos Ancestrais.md",
+    "personagens-jogadores/Brynn Lumberman.md",
+    "mundo/pessoas/Anastasia Bronislav.md",
+    "mundo/pessoas/Batum.md",
+    "mundo/deuses/Selûne.md",
     "mundo/eventos/Festa de Dominica.md",
+    "personagens-jogadores/Erani Rockharvest.md",
+    "Vulto.md",
+    "mundo/objetos/Pergaminhos Nether.md",
+    "mundo/pessoas/Pavlova.md",
+    "mundo/locais/Palácio Dahaundar.md",
     "mundo/locais/Netheril.md",
     "mundo/pessoas/Lady Irenka Todorova.md",
-    "Lady Natasha Todorova.md",
+    "mundo/pessoas/Lady Natasha Todorova.md",
     "mundo/pessoas/Lord De La Cruz.md",
     "mundo/pessoas/Sheik Al-Farouq Atallah.md",
     "mundo/deuses/Corellon.md",
-    "mundo/objetos/Pergaminhos Nether.md",
-    "mundo/deuses/Cyric.md",
-    "mundo/pessoas/Lord Karana.md",
-    "mundo/locais/Templo de Oghma de Esmeltaran.md",
-    "mundo/pessoas/Lady Daphne.md",
-    "mundo/pessoas/Lord Viktor.md",
-    "mundo/pessoas/Lady Amari Alibakkar.md",
-    "mundo/pessoas/Aleksandr Bronislav.md",
-    "mundo/pessoas/Lord Askia Indull Sarvann.md",
-    "personagens-jogadores/Federiks Melshimber.md",
-    "personagens-jogadores/Calë Gwarth.md",
-    "mundo/pessoas/Lady Frantiska.md",
-    "mundo/pessoas/Lady Fahrunissa.md",
-    "mundo/pessoas/Sveda.md",
-    "personagens-jogadores/Erani Rockharvest.md",
-    "Magias.md",
-    "personagens-jogadores/Brynn Lumberman.md",
-    "personagens-jogadores/Bun Ging A'hnga.md",
-    "mundo/locais/Templo de Kelemvor de Esmeltaran.md",
     "Untitled.canvas",
     "mundo/eventos",
     "mundo/objetos",

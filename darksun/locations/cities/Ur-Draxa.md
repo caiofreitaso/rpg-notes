@@ -10,6 +10,7 @@
 - Slaves wear white clothes
 - Elemental magic is forbidden
 - The area within the walls is cooled to never reach anything above 26-30º C
+- A barrier prevents teleportation and ethereal creatures to enter the city's island.
 
 
 ## Circular city
@@ -18,7 +19,7 @@
 | 40 kilometers | 125 kilometers |
 
 - The city is actually composed of a collection of towns and villages encircled by a common wall
-- An inner circle dedicated to [[The Dragon]]
+- An inner circle dedicated to [[The Dragon]]: [[The Dragon's Sanctum]]
 - Outer part is divided into 9 Sectors
 
 ### Outer Wall
@@ -64,7 +65,26 @@ Every free citizen is a noble
 
 - **Templar:** Same as any other city-state. They serve as city's administrators and supervisors.
 - **Viziers:** Powerful defilers, psions, and learned scholars. They are a council body and draxan university. Acting as power brokers and preservers of lost knowledge.
-- **Slaves:**
 
+### Army
+- 50 clan companies
+- 15 city companies
 
-## The Dragon's Sanctum
+#### Army Hierarchy
+1. [[The Dragon]]
+2. [[Kaisharga|Lord Warrior]]
+3. 4x [[Kaisharga|Legion Commander]]
+4. Regiment Leader & Clan Regiment Leader
+5. 3x War Leader
+6. Warrior
+
+#### Army Composition
+1. 4x Legion (North, South, East, West)
+2. Regiment
+3. 3x ???
+
+#### Legions
+- [[Doom of the South]]
+- [[Guardians of the North]]
+- [[Army of the East]]
+- [[Guard of the West]]
