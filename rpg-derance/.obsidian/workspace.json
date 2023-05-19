@@ -29,26 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mundo/pessoas/Ele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb9654df897ae99e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mundo/eventos/Festa de Dominica.md",
+                "file": "mundo/eventos/Assassinato do Mago Encapusado.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mundo/eventos/Festa de Dominica.md",
+                "file": "mundo/eventos/Assassinato do Mago Encapusado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mundo/eventos/Festa de Dominica.md",
+                "file": "mundo/eventos/Assassinato do Mago Encapusado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mundo/eventos/Festa de Dominica.md"
+                "file": "mundo/eventos/Assassinato do Mago Encapusado.md"
               }
             }
           }
@@ -183,34 +170,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb9654df897ae99e",
+  "active": "f44696683349fe7a",
   "lastOpenFiles": [
-    "mundo/pessoas/Lord Finn Estelmer.md",
-    "mundo/pessoas/Sveda.md",
     "mundo/locais/Ruínas de Myth Lharast.md",
+    "mundo/eventos/Assassinato de Sveda.md",
+    "mundo/eventos/Assassinato do Mago Encapusado.md",
+    "personagens-jogadores/Federiks Melshimber.md",
+    "personagens-jogadores/Erani Rockharvest.md",
+    "personagens-jogadores/Brynn Lumberman.md",
+    "personagens-jogadores/Bun Ging A'hnga.md",
+    "personagens-jogadores/Calë Gwarth.md",
+    "mundo/eventos/Festa de Dominica.md",
+    "mundo/pessoas/Sveda.md",
+    "mundo/pessoas/Lord Finn Estelmer.md",
+    "mundo/pessoas/Ele.md",
     "mundo/locais/Basílica de Selûne.md",
     "Mythal.md",
     "Magias.md",
-    "mundo/pessoas/Ele.md",
     "Maosoléu Argentum.md",
     "mundo/locais/Torres Estrelas Espirais.md",
     "mundo/locais/Bosque dos Ancestrais.md",
-    "personagens-jogadores/Brynn Lumberman.md",
     "mundo/pessoas/Anastasia Bronislav.md",
     "mundo/pessoas/Batum.md",
     "mundo/deuses/Selûne.md",
-    "mundo/eventos/Festa de Dominica.md",
-    "personagens-jogadores/Erani Rockharvest.md",
     "Vulto.md",
     "mundo/objetos/Pergaminhos Nether.md",
     "mundo/pessoas/Pavlova.md",
     "mundo/locais/Palácio Dahaundar.md",
     "mundo/locais/Netheril.md",
-    "mundo/pessoas/Lady Irenka Todorova.md",
-    "mundo/pessoas/Lady Natasha Todorova.md",
-    "mundo/pessoas/Lord De La Cruz.md",
-    "mundo/pessoas/Sheik Al-Farouq Atallah.md",
-    "mundo/deuses/Corellon.md",
     "Untitled.canvas",
     "mundo/eventos",
     "mundo/objetos",

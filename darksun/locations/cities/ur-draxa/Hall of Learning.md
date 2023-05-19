@@ -2,7 +2,7 @@
 
 Complex of several dozen palaces, libraries, and administration buildings at [[Zuraag Sector]].
 
-- Where [[Ur-Draxa]]'s viziers are
+- Where [[Viziers]] are
 
 ## Hierarchy
 1. Leader: [[Kaisharga|Lord Vizier]]

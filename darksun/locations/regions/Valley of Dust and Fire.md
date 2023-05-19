@@ -18,4 +18,4 @@ Located at the heart of the [[Sea of Silt]].
 - [[Iron Citadel]]
 
 ## Places of Interest
-- [[The Dragon's Causeway]]
+- [[Gates of Doom]]

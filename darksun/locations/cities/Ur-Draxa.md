@@ -64,7 +64,7 @@
 Every free citizen is a noble
 
 - **Templar:** Same as any other city-state. They serve as city's administrators and supervisors.
-- **Viziers:** Powerful defilers, psions, and learned scholars. They are a council body and draxan university. Acting as power brokers and preservers of lost knowledge.
+- [[Viziers]]
 
 ### Army
 - 50 clan companies

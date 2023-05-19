@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#region",
@@ -76,18 +76,25 @@
         "a": 1,
         "rgb": 4751905
       }
+    },
+    {
+      "query": "tag:#ruins",
+      "color": {
+        "a": 1,
+        "rgb": 7960894
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.0953125,
-  "lineSizeMultiplier": 1.06979166666667,
+  "nodeSizeMultiplier": 1.27395833333333,
+  "lineSizeMultiplier": 1.01875,
   "collapse-forces": false,
-  "centerStrength": 0.416666666666667,
-  "repelStrength": 20,
+  "centerStrength": 0.401041666666667,
+  "repelStrength": 19.0625,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.04993528587680964,
+  "scale": 0.07879709504546745,
   "close": true
 }

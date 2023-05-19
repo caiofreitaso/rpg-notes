@@ -3,7 +3,7 @@
 Seventh sector within the outer walls of [[Ur-Draxa]]
 
 - Leader: [[Aras Zuraag]]
-- Center of power for the viziers: [[Hall of Learning]]
+- Center of power for the [[Viziers]]: [[Hall of Learning]]
 - Home of the [[Fire Drakes]]
 
 ## Connections

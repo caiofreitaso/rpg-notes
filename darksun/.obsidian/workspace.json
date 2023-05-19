@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maestrom.md",
+                "file": "locations/cities/Raam.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ur-draxa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d6d012d40a3a747c",
@@ -109,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maestrom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maestrom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maestrom.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,34 +167,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41a590ad55b37a25",
+  "active": "4bd986be69380c93",
   "lastOpenFiles": [
-    "Ring of Fire.md",
-    "Maestrom.md",
-    "Sith Island.md",
-    "organizations/ur-draxa/Dragon Warriors.md",
-    "organizations/Fire Scorpions.md",
-    "Guerdra.md",
-    "organizations/Black Sand Raiders.md",
-    "organizations/Silt Raiders.md",
-    "locations/regions/Valley of Dust and Fire.md",
-    "organizations/ur-draxa/Kaisharga.md",
-    "Amandia.md",
-    "locations/cities/ur-draxa/Raxes Sector.md",
-    "Iron Citadel.md",
-    "locations/cities/ur-draxa/Fortress of the West.md",
-    "organizations/ur-draxa/Guard of the West.md",
-    "locations/regions/Tablelands.md",
-    "locations/forts/Fort Courage.md",
-    "Shard Flats.md",
-    "locations/geographical-features/Great Ash Storm.md",
-    "locations/cities/ur-draxa/The Dragon's Sanctum.md",
+    "locations/cities/Raam.md",
     "locations/cities/Ur-Draxa.md",
-    "locations/geographical-features/Dead Forest.md",
-    "Basalt Plain.md",
-    "Tortured Hills.md",
-    "Last Port.md",
+    "people/Rajaat.md",
+    "Losthome.md",
+    "Zivlil.md",
+    "Grelzen.md",
     "locations/regions/Sea of Silt.md",
+    "Mersten Vell.md",
+    "locations/villages/Salt View.md",
+    "organizations/merchant-houses/small/House Fyra.md",
+    "Arya.md",
+    "Fyra.md",
+    "Xaynon.md",
+    "Vollen.md",
+    "Ruvella.md",
+    "Cache.md",
+    "Mistella.md",
+    "Lestria.md",
+    "Fort Fyra.md",
+    "organizations/merchant-houses/dynastic/House Shom.md",
+    "locations/forts/Outpost 19.md",
+    "locations/forts/Fort Inix.md",
+    "Werelev.md",
+    "Pevuran Bollos.md",
+    "Astemba Wavir.md",
+    "Perian Evenstar.md",
     "organizations/ur-draxa",
     "locations/cities/ur-draxa",
     "locations/geographical-features",
