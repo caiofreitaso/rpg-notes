@@ -3,9 +3,6 @@
   "showFrontmatter": true,
   "showLineNumber": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-GB",
-    "pt-BR"
-  ],
+  "spellcheckLanguages": null,
   "alwaysUpdateLinks": true
 }

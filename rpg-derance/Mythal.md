@@ -1,1 +1,1 @@
-Encantamento élfico presente nas grandes cidades élficas
+Encantamento élfico presente nas grandes cidades élficas, com vários efeitos de proteção para o local

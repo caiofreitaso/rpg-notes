@@ -1,0 +1,11 @@
+- Protegidos por [[Selûne]] (apenas os bondosos).
+- Armas de prata são mais eficazes.
+- Começam a adquirir características do animal na sua forma humanóide.
+- Pode ser uma maldição, que pega com uma mordida de um licantropo.
+	- *Remover maldição* cura
+- Pode ser herdado geneticamente.
+	- Apenas *milagre* ou *desejo* podem afetar um licantropo natural.
+- Possuem três formas:
+	- Humanóide
+	- Animal
+	- Híbrida

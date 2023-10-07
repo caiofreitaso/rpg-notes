@@ -4,4 +4,5 @@ Clériga de [[Selûne]]
 
 - Trabalha no [[Templo de Selûne de Esmeltaran]]
 - [[Assassinato de Sveda]]
-- Está no [[Templo de Kelemvor de Esmeltaran]], após sua ressurreição
+- Ficou no [[Templo de Kelemvor de Esmeltaran]], após sua ressurreição
+- Foi ordenada em um processo de emergência por [[Lord Noulos]]

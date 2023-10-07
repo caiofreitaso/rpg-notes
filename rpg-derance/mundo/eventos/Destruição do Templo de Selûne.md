@@ -1,0 +1,6 @@
+- Enquanto [[Batum]] estava sendo protegido por [[Ele]], o [[Templo de Selûne de Esmeltaran]] foi atacado por devotos de [[Shar]].
+	- [[Ele]] foi derrotado.
+	- O templo foi destruído.
+	- [[Sequestro de Batum]].
+- [[Os Heróis]] chegam no templo, após o [[Assassinato do Mago Encapuzado]].
+- [[Lord Noulos]] chega no templo e rapidamente ordena [[Sveda]] como clériga, analisando o ocorrido como uma declaração de guerra da igreja de [[Shar]]

@@ -24,12 +24,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41a590ad55b37a25",
+            "id": "9b1bab2d4c964213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/cities/Raam.md",
+                "file": "organizations/merchant-houses/dynastic/House Stel.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d6d012d40a3a747c",
@@ -110,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "organizations/merchant-houses/dynastic/House Stel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "organizations/merchant-houses/dynastic/House Stel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,10 +148,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "organizations/merchant-houses/dynastic/House Stel.md"
+              }
+            }
+          },
+          {
+            "id": "a0253d7058302c62",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,34 +181,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bd986be69380c93",
+  "active": "9b1bab2d4c964213",
   "lastOpenFiles": [
-    "locations/cities/Raam.md",
-    "locations/cities/Ur-Draxa.md",
-    "people/Rajaat.md",
-    "Losthome.md",
-    "Zivlil.md",
-    "Grelzen.md",
-    "locations/regions/Sea of Silt.md",
-    "Mersten Vell.md",
-    "locations/villages/Salt View.md",
-    "organizations/merchant-houses/small/House Fyra.md",
-    "Arya.md",
-    "Fyra.md",
-    "Xaynon.md",
-    "Vollen.md",
-    "Ruvella.md",
-    "Cache.md",
-    "Mistella.md",
-    "Lestria.md",
-    "Fort Fyra.md",
     "organizations/merchant-houses/dynastic/House Shom.md",
-    "locations/forts/Outpost 19.md",
-    "locations/forts/Fort Inix.md",
-    "Werelev.md",
-    "Pevuran Bollos.md",
-    "Astemba Wavir.md",
-    "Perian Evenstar.md",
+    "organizations/merchant-houses/dynastic/House M'ke.md",
+    "organizations/merchant-houses/dynastic/House Inika.md",
+    "organizations/merchant-houses/dynastic/House Wavir.md",
+    "organizations/merchant-houses/dynastic/House Vordon.md",
+    "organizations/merchant-houses/dynastic/House Tsalaxa.md",
+    "organizations/merchant-houses/dynastic/House Stel.md",
+    "people/sorcerer-kings/The Dragon.md",
+    "Untitled.md",
+    "organizations/merchant-houses/small/House Ardian.md",
+    "organizations/merchant-houses/small/Dendys Consortium.md",
+    "people/sorcerer-kings/Andropinis.md",
+    "people/sorcerer-kings/Lalali-Puy.md",
+    "people/sorcerer-kings/Kalid-Ma.md",
+    "people/sorcerer-kings/Nibenay.md",
+    "people/sorcerer-kings/Dregoth.md",
+    "people/sorcerer-kings/Abalach-Re.md",
+    "people/sorcerer-kings/Hamanu.md",
+    "people/sorcerer-kings/Sielba.md",
+    "organizations/elven-tribes/Sky Singers.md",
+    "organizations/elven-tribes/Clearwater.md",
+    "organizations/elven-tribes/Silver Hands.md",
+    "organizations/elven-tribes/Water Hunters.md",
+    "organizations/elven-tribes/Wind Dancers.md",
+    "organizations/elven-tribes/Shadows.md",
+    "Sun Runners.md",
     "organizations/ur-draxa",
     "locations/cities/ur-draxa",
     "locations/geographical-features",

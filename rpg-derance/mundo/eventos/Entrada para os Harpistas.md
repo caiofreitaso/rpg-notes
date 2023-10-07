@@ -1,0 +1,4 @@
+- Após o [[Sequestro de Batum]], [[Os Heróis]] vão para [[Descanso da Beleza]].
+- Na estalagem, [[Pavlova]] informa [[Os Heróis]] sobre os [[Harpistas Dourados]], grupo do qual ela faz parte.
+- [[Os Heróis]] aceitam fazer parte também dos [[Harpistas Dourados]].
+- [[Pavlova]] falou que há pessoas no grupo que possuem maiores conhecimentos mágicos para ajudar [[Os Heróis]] com o problema dos [[Pergaminhos Nether]].

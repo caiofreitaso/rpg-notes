@@ -5,3 +5,4 @@ Halfling
 - Gostava de cozinhar
 - Antigo dono de [[Dengo]]
 - Tinha uma sacola de brinquedos para as crianças da [[Pensão Beira-Mar]]
+- Foi contratado por [[Dominica Nashivaar]] para investigar as [[Ruínas de Myth Lharast]]

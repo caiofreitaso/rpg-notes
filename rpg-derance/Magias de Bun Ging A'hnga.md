@@ -6,9 +6,11 @@ Magias de [[Bun Ging A'hnga]]
 - message
 
 ## Magias
+
 | | 1º | 2º | 3º |
 |:-|:-:|:-:|:-:|
-| Slots | 4 | 3 | 3 |
+| Slots  | 4 | 3 | 3 |
+| Usados | 0 | 1 | 3 |
 
 | 1º nível | 2º nível | 3º nível |
 |:-|:-|:-|
@@ -17,3 +19,7 @@ Magias de [[Bun Ging A'hnga]]
 | feather fall | | fly (Lore) |
 | unseen servant (R) | | revivify (Lore) | 
 | comprehend languages (R) | | |
+
+Bun Ging A'hnga: uso de inspiração 1
+Calë: uso de smite 1
+Calë:

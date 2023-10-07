@@ -1,4 +1,4 @@
-Onde [[Willimack]] morava com [[Dengo]]
+Onde [[Willimack, O Roxo]] morava com [[Dengo]]
 
 ## Pesquisa
 Enciclopédia do acervo do [[Templo de Oghma de Esmeltaran]] no meio da mesa da sala com vários pergaminhos relacionados à uma única pesquisa

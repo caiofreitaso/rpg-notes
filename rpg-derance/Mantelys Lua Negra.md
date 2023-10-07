@@ -1,0 +1,3 @@
+- Cabelos pretos com 
+- Co-fundador do [[Templo de Mystra em Myth Larast]]
+- 

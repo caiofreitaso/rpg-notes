@@ -5,3 +5,7 @@
 - Foram derrotados
 - Alguns deles permanecem em Faerûn
 - Sempre desejaram obter relíquias [[Netheril]]
+- A elite passou por um ritual mágico que se transformavam em vultos: [[Shadovar]]
+	- Estão no Plano das Sombras
+	- Envolvia a devoção a [[Shar]]
+	- [[Tashentul]]
