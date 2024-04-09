@@ -10,7 +10,7 @@ Itens de [[Bun Ging A'hnga]]
 | | pp |
 
 ## Itens vestíveis
-| **Slot** | **Item** | **Sintonizável**|
+| **Slot** | **Item** | **Sintonizável** |
 |:-|:-|:-:|
 | Cabeça | Chapéu do disfarce | X |
 | Olhos  | Óculos da noite | |
@@ -24,6 +24,7 @@ Itens de [[Bun Ging A'hnga]]
 
 ## Itens sintonizáveis
 - *Joia da visão* (_visão da verdade_)
+- _Pedra iônica da liderança_ (+2 Carisma)
 ## Itens não-vestíveis
 - _Besta leve +1_ (com bússola, 2 virotes sem precisar recarregar)
 - _Buraco portátil_
@@ -52,4 +53,4 @@ Itens de [[Bun Ging A'hnga]]
 - _restauração maior_
 
 ## Poções
-- _Poção de cura maior_
+- 

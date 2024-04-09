@@ -1,0 +1,31 @@
+#concepts 
+
+- Colonize
+- Build (Planet)
+	- Starbase
+	- Ship
+	- [[Defense]]
+	- [[Observatory]] (planetary scanners)
+	- [[Factory]] (credits)
+	- [[Mine]] (minerals)
+- Deploy Mines
+- Resupply (Build in-loco with available minerals)
+	- Drones
+	- Missiles
+- Transport (cargo transfer)
+	- Minerals
+	- Colonists
+	- Fuel
+	- Ships
+- Trade (trading fleets will be flagged globally; trading vessels must not be armed)
+	- Minerals
+	- Technology
+	- Credit
+- Move (automatically load fuel in starbases)
+- Reclaim (destroy fleet and gather resources)
+- Retrofit (update components to latest version)
+- Gather Minerals (either salvage or mining)
+- Merge with Fleet
+- Attack
+	- Launch Missile (launch kinetic attack towards a fleet or planet)
+	- Launch Bomb (create debris at warp speed)

@@ -1,4 +1,4 @@
-AKA Cidade da Lua
+AKA Cidade da Lrdb  ua
 
 Cidade lendária protegida por um [[Mythal]], fundada no ano 390 por vários povos (e não só elfos), todos selûnitas (devotos de [[Selûne]]).
 

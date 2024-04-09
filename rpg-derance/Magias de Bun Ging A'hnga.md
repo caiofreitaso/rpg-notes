@@ -19,7 +19,3 @@ Magias de [[Bun Ging A'hnga]]
 | feather fall | | fly (Lore) |
 | unseen servant (R) | | revivify (Lore) | 
 | comprehend languages (R) | | |
-
-Bun Ging A'hnga: uso de inspiração 1
-Calë: uso de smite 1
-Calë:

@@ -16,8 +16,43 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "84db7ee95d8ebc73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aventura/??? House.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a8fcbae34d6f3a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aventura/Dariel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bb6baaee0f36b35",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b6d5f8181bddc90e",
@@ -29,7 +64,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/merchant-houses/dynastic/House Stel.md",
+                "file": "aventura/Planar Raiders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "319bc9e42ce19fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aventura/Fingoreon.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizations/merchant-houses/dynastic/House Stel.md",
+                "file": "aventura/Dariel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizations/merchant-houses/dynastic/House Stel.md",
+                "file": "aventura/Dariel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizations/merchant-houses/dynastic/House Stel.md"
+                "file": "aventura/Dariel.md"
               }
             }
           },
@@ -159,7 +206,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -181,34 +230,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b1bab2d4c964213",
+  "active": "8bb6baaee0f36b35",
   "lastOpenFiles": [
-    "organizations/merchant-houses/dynastic/House Shom.md",
-    "organizations/merchant-houses/dynastic/House M'ke.md",
-    "organizations/merchant-houses/dynastic/House Inika.md",
-    "organizations/merchant-houses/dynastic/House Wavir.md",
-    "organizations/merchant-houses/dynastic/House Vordon.md",
-    "organizations/merchant-houses/dynastic/House Tsalaxa.md",
+    "aventura/Planar Raiders.md",
+    "aventura/Fred.md",
+    "aventura/Maraxes.md",
+    "aventura/Fingoreon.md",
+    "aventura/Dariel.md",
+    "aventura/??? House.md",
+    "aventura/Calondriel.md",
+    "organizations/Psiumarkh.md",
     "organizations/merchant-houses/dynastic/House Stel.md",
-    "people/sorcerer-kings/The Dragon.md",
-    "Untitled.md",
-    "organizations/merchant-houses/small/House Ardian.md",
     "organizations/merchant-houses/small/Dendys Consortium.md",
-    "people/sorcerer-kings/Andropinis.md",
-    "people/sorcerer-kings/Lalali-Puy.md",
-    "people/sorcerer-kings/Kalid-Ma.md",
-    "people/sorcerer-kings/Nibenay.md",
-    "people/sorcerer-kings/Dregoth.md",
-    "people/sorcerer-kings/Abalach-Re.md",
-    "people/sorcerer-kings/Hamanu.md",
-    "people/sorcerer-kings/Sielba.md",
-    "organizations/elven-tribes/Sky Singers.md",
-    "organizations/elven-tribes/Clearwater.md",
+    "templates/merchant-house.md",
     "organizations/elven-tribes/Silver Hands.md",
-    "organizations/elven-tribes/Water Hunters.md",
-    "organizations/elven-tribes/Wind Dancers.md",
+    "locations/villages/Silver Springs.md",
+    "locations/cities/Raam.md",
+    "aventura",
+    "organizations/Fire Scorpions.md",
+    "organizations/Black Sand Raiders.md",
+    "organizations/Silt Raiders.md",
+    "artifacts/Gates of Doom.md",
+    "artifacts",
+    "organizations/elven-tribes/Sky Singers.md",
     "organizations/elven-tribes/Shadows.md",
-    "Sun Runners.md",
+    "locations/cities/Balic.md",
+    "organizations/elven-tribes/Silt Stalkers.md",
+    "organizations/elven-tribes/Water Hunters.md",
+    "locations/cities/Draj.md",
+    "locations/regions/Hinderlands.md",
+    "locations/geographical-features/Silent Forest.md",
     "organizations/ur-draxa",
     "locations/cities/ur-draxa",
     "locations/geographical-features",
@@ -216,8 +267,6 @@
     "organizations/merchant-houses/dynastic",
     "organizations/merchant-houses/small",
     "organizations/merchant-houses",
-    "organizations/elven-tribes",
-    "locations/villages",
-    "locations/forts"
+    "organizations/elven-tribes"
   ]
 }

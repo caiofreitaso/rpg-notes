@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#armour  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#resource  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "tag:#shield  ",
+      "color": {
+        "a": 1,
+        "rgb": 2702181
+      }
+    },
+    {
+      "query": "tag: #component  ",
+      "color": {
+        "a": 1,
+        "rgb": 2096127
+      }
+    },
+    {
+      "query": "tag:#concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 16250871
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.354166666666667,
+  "repelStrength": 19.4791666666667,
+  "linkStrength": 1,
+  "linkDistance": 35,
+  "scale": 0.32791740460982927,
+  "close": false
+}

@@ -1,4 +1,4 @@
-#PJ #bardo #caótico
+ #PJ #bardo #caótico
 Warforged
 Bardo do Conhecimento (College of Lore)
 `CAIO`
@@ -29,13 +29,13 @@ Bardo do Conhecimento (College of Lore)
 | Constituição | 14 | +2 | +2 |
 | Inteligência | 16 | +3 | +3 |
 | Sabedoria    | 12 | +1 | +1 |
-| **Carisma**      | 16 | +3 | **+6** |
+| **Carisma**      | 18 | +4 | **+7** |
 
 | PV | CA | Inic. | Desl. | Proficiência | Percepção |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 46 | 15 | +1 | 9 m | +3 | 14 |
+| 56 | 15 | +1 | 9 m | +3 | 14 |
 
-**PV Atual:** 46
+**PV Atual:** 56
 **Idiomas:** Comum, Anão, Gnomo
 
 ### Habilidades de Raça
@@ -54,9 +54,15 @@ Bardo do Conhecimento (College of Lore)
 	- Vê e ouve normalmente.
 
 ### Habilidades de Classe
-- **Inspiração bárdica:** $+1d8$, 3/curto (2)
+- **Inspiração bárdica:** $+1d8$, 4/curto
 - **Pau pra toda obra:** ½ proficiência em outras perícias
 - **Canção de descanso:** +1d6 pv depois de descanso curto
 - **Expertise:** 2 perícias
-- **Palavras cortantes:** $-1d8$ na rolagem de um inimigo (antes de determinar se foi sucesso ou não)
+- **Palavras cortantes:** {{reação}} {{18 metros}} $-1d8$ na rolagem de um inimigo (antes de determinar se foi sucesso ou não)
 - **Countercharm:** {{ação}} {{até seu próximo turno}} {{9 metros}} aliados tem vantagem em T.R. contra medo e charm.
+
+### Proficiências
+- thieves' tools
+- alchemist supplies
+- 3 instrumentos
+- um jogo

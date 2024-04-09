@@ -1,0 +1,3 @@
+- Região ao sul nas [[Ruínas de Myth Lharast]]
+- Onde a comunidade liderada por [[Eudan]] mora.
+- Outrora, onde havia feiras e comércio.

@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "31c49b152fc1b860",
+    "type": "split",
+    "children": [
+      {
+        "id": "330a4f2f05262939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b54a011528cd87f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b426caeee04fc2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debris.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7388e3c15616ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Star Map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac9e7eee3d2cba0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Movement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8af4a794f742a2b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Material.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63175b58672ba742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technologies/Engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67cac5a279121d8c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94757fb1f8070cc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a2420de77abc3f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32bb3d1d4b3599fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4721eba5a21ea037",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c71f46283267a03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09cb97666167a023",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f0d8c8cdea0f16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f776969095b3f08e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Movement.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbaee8727d76dcdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Movement.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbd0385d52e9d1f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1ce377584c7f28a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Movement.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ac9e7eee3d2cba0c",
+  "lastOpenFiles": [
+    "Star Map.md",
+    "Movement.md",
+    "Debris.md",
+    "technologies/Engineering.md",
+    "Material.md",
+    "components/organic-armours/Biomineral Armour.md",
+    "Rock Armour.md",
+    "components/inorganic-armours/Ceramic Rock Armour.md",
+    "Damage.md",
+    "Tecnologies.md",
+    "components/organic-armours/Growing Armour.md",
+    "Components.md",
+    "Actions.md",
+    "components/Missile.md",
+    "components/Organic Armour.md",
+    "components/Inorganic Armour.md",
+    "components/Missile Assembler.md",
+    "components/Laser.md",
+    "components/Shield.md",
+    "resources/Minerals.md",
+    "resources/Rocks.md",
+    "resources/Rare Earths.md",
+    "resources/Platinides.md",
+    "components/organic-armours/Chitin Armour.md",
+    "components/Disabling Mine Assembler.md",
+    "components/shields/Einstein Shield.md",
+    "components/shields",
+    "components/organic-armours",
+    "components/inorganic-armours",
+    "components",
+    "technologies",
+    "resources"
+  ]
+}

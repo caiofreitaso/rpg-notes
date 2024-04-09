@@ -1,0 +1,32 @@
+#concepts 
+- [[Engine]] ([[Propulsion]])
+- Weapons
+	- [[Laser]] ([[Particle]] + [[Electronics]] + [[Weapons]])
+	- [[Missile]]
+	- [[Bomb]] ([[Weapons]])
+- Armour
+	- [[Inorganic Armour]]
+	- [[Organic Armour]]
+- [[Shield]]
+- Electronics
+	- [[Cloaking Device]] ([[Particle]] + [[Electronics]])
+	- [[Homing Command]] ([[Electronics]])
+	- [[Jammer]] ([[Particle]] + [[Electronics]])
+	- [[Laser Amplifier]] ([[Paricle]] + [[Electronics]])
+- Mechanical devices
+	- [[Thrusters]] ([[Engineering]] + [[Propulsion]])
+	- [[Spacetime Distortor]] ([[Engineering]] + [[Particle]])
+- Production
+	- [[Explosive Mine Assembler]]
+	- [[Disabling Mine Assembler]]
+	- [[Drone Assembler]]
+	- [[Missile Assembler]]
+	- [[Mass Drive]] ([[Engineering]] + [[Propulsion]])
+- [[Colonisation Pod]] ([[Biotechnology]] + [[Engineering]])
+- [[Cargo Pod]] ([[Engineering]])
+- [[Fuel Pod]] ([[Material]] + [[Engineering]])
+- Detectors
+	- [[Sensors]] ([[Particle]] + [[Electronics]])
+	- [[Penetrating Sensors]] ([[Biotechnology]] + [[Electronics]])
+- [[Mining Drills]] ([[Engineering]])
+- [[Stargate]] ([[Engineering]] + [[Material]] + [[Particle]])

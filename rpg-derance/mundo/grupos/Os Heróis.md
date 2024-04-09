@@ -2,6 +2,6 @@
 - [[Bun Ging A'hnga]]
 - [[Erani Rockharvest]]
 - [[Federiks Melshimber]]
-- [[Kot'el]]
+- [[Kot'el Orym]]
 - [[Dougal]]
 - [[Calë Gwarth]]

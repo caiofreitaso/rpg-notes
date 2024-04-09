@@ -4,49 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "dc2fc4ae5ed35d05",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "80fa924e5f648e42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magias de Bun Ging A'hnga.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70bcaf3a7d0bf108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personagens-jogadores/Bun Ging A'hnga.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b17acb3a8a9e228e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mundo/eventos/Ida às Ruínas de Myth Larast.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "a4c8381eb0cd8838",
         "type": "tabs",
         "children": [
@@ -56,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perícias de Bun Ging A'hnga.md",
+                "file": "Inventário de Bun Ging A'hnga.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "9f93c715ff030e14",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
               }
             }
           },
@@ -74,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,21 +71,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pergaminhos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "021bf3be616bcea0",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -132,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7ebddfe7c42dff3d",
@@ -148,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mundo/eventos/Ida às Ruínas de Myth Larast.md",
+                "file": "Inventário de Bun Ging A'hnga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mundo/eventos/Ida às Ruínas de Myth Larast.md",
+                "file": "Inventário de Bun Ging A'hnga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mundo/eventos/Ida às Ruínas de Myth Larast.md"
+                "file": "Inventário de Bun Ging A'hnga.md"
               }
             }
           },
@@ -198,7 +159,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -219,34 +182,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b17acb3a8a9e228e",
+  "active": "b3249b2b9376d524",
   "lastOpenFiles": [
-    "personagens-jogadores/Kot'el.md",
-    "mundo/eventos/Ida às Ruínas de Myth Larast.md",
     "personagens-jogadores/Bun Ging A'hnga.md",
-    "Sending para Batum.md",
-    "Magias de Bun Ging A'hnga.md",
-    "Perícias de Bun Ging A'hnga.md",
-    "Inventário de Bun Ging A'hnga.md",
-    "mundo/pessoas/Willimack, O Roxo.md",
-    "mundo/locais/Ruínas de Myth Lharast.md",
-    "mundo/locais/Museu Arcano.md",
+    "mundo/pessoas/Satra.md",
+    "bu].md",
+    "mundo/eventos/Ida à Grande Biblioteca Alabastrina.md",
+    "mundo/pessoas/Eudan.md",
+    "Lassitel.md",
+    "mundo/grupos/Os Heróis.md",
+    "Vila dos Vagantes.md",
+    "mundo/deuses/Selûne.md",
+    "mundo/objetos/Pergaminhos Nether.md",
+    "mundo/eventos/Assassinato do Mago Encapuzado.md",
+    "mundo/eventos/Sending para Batum.md",
     "mundo/eventos/Sequestro de Batum.md",
     "mundo/eventos/Assassinato de Sveda.md",
+    "mundo/eventos/Entrada para os Harpistas.md",
+    "mundo/eventos/Destruição do Templo de Selûne.md",
+    "mundo/eventos/Festa de Dominica.md",
+    "mundo/pessoas/Eivell.md",
+    "Inventário de Bun Ging A'hnga.md",
     "mundo/pessoas/Sveda.md",
     "mundo/pessoas/Lord Finn Estelmer.md",
-    "Handrix.md",
-    "Mantelys Lua Negra.md",
-    "personagens-jogadores/Dougal.md",
-    "personagens-jogadores/Federiks Melshimber.md",
-    "personagens-jogadores/Calë Gwarth.md",
-    "personagens-jogadores/Brynn Lumberman.md",
-    "personagens-jogadores/Erani Rockharvest.md",
-    "mundo/deuses/Chauntea.md",
-    "mundo/deuses/Cyric.md",
-    "mundo/deuses/Silvanus.md",
-    "mundo/locais/Torres Estrelas Espirais.md",
-    "mundo/deuses/Mystra.md",
+    "mundo/pessoas/Lord De La Cruz.md",
+    "mundo/pessoas/Tashentul.md",
+    "mundo/eventos/Ida às Ruínas de Myth Larast.md",
+    "mundo/locais/Grande Biblioteca Alabastrina.md",
+    "mundo/pessoas/Professora Eluin.md",
     "Untitled.canvas",
     "mundo/eventos",
     "mundo/objetos",
